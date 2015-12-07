@@ -52,6 +52,23 @@ $(document).ready(function(){
       type: 'image' // this is default type
   });
 
+  $('.vertster-popup').magnificPopup({
+      items: [
+        {
+          src: '/images/portfolio/vertster-dashboard.png'
+        },
+
+        {
+          src: '/images/portfolio/vertster-home.png'
+        }
+
+      ],
+      gallery: {
+        enabled: true
+      },
+      type: 'image' // this is default type
+  });
+
   $('.diggboard-popup').magnificPopup({
       items: [
         {

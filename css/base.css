@@ -210,7 +210,9 @@ ol.carousel-indicators {
   height: 40px;
 }
 
-
+.portfolio-popup {
+  font-weight: bold;
+}
 
 /*** MEDIA QUERIES ***/
 
