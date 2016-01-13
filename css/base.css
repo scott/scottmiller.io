@@ -28,7 +28,7 @@ hr {
   background-size:cover;
   position:relative;
   height:100vh;
-  background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(/images/photo-1433840496881-cbd845929862.jpeg);
+  /*background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(/images/photo-1433840496881-cbd845929862.jpeg);*/
 }
 
 #intro-header {

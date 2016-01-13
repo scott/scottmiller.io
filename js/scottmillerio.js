@@ -52,6 +52,22 @@ $(document).ready(function(){
       type: 'image' // this is default type
   });
 
+  $('.vivint-rebrand').magnificPopup({
+      items: [
+        {
+          src: '/images/portfolio/media1.gif'
+        },
+
+        {
+          src: '/images/portfolio/media2.gif'
+        }
+      ],
+      gallery: {
+        enabled: true
+      },
+      type: 'image' // this is default type
+  });
+
   $('.vertster-popup').magnificPopup({
       items: [
         {
