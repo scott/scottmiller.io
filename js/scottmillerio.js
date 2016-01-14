@@ -9,6 +9,13 @@ $(document).ready(function(){
         });
   });
 
+  $("#typed").typed({
+    strings: ["a product leader.", "a marketer.", "a developer.", "an entreprenuer."],
+    typeSpeed: 0,
+    backDelay: 1000,
+    loop: true
+  });
+
   $('.popup').magnificPopup({type:'image'});
 
   $('.helpy-popup').magnificPopup({
