@@ -10,7 +10,7 @@ $(document).ready(function(){
   });
 
   $("#typed").typed({
-    strings: ["a product leader.", "a marketer.", "a developer.", "an entreprenuer."],
+    strings: ["a product leader.", "a marketer.", "a developer.", "an entrepreneur."],
     typeSpeed: 0,
     backDelay: 1000,
     loop: true
